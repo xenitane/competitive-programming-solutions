@@ -1,0 +1,10 @@
+{
+  "accentColor": "#2196f3",
+  "baseFontSize": 24,
+  "cssTheme": "Dracula Plus",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "list-format"
+  ]
+}

@@ -1,0 +1,12 @@
+.multi-col-list ul{
+  display:flex;
+  flex-wrap:wrap;
+  gap: 5%;
+}
+.multi-col-list ul li{
+  width:30%;
+  padding:10px 10px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
