@@ -5,10 +5,13 @@
   
   - [[./codeforces/4a.md|4a]]
   - [[./codeforces/977a.md|977a]]
-  - [[./codeforces/399a.md|399a]]
+  - [[./codeforces/399b.md|399b]]
   - [[./codeforces/397a.md|397a]]
-  - [[./codeforces/1177ab|1177ab]]
-  - [[./codeforces/1145a|1145a]]
+  - [[./codeforces/1177ab.md|1177ab]]
+  - [[./codeforces/1145a.md|1145a]]
+  - [[./codeforces/393a|393a]]
+  - [[./codeforces/399a.md|399a]]
+  - [[./codeforces/390a|390a]]
 
 
 - ## LeetCode:

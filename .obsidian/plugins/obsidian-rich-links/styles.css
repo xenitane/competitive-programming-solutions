@@ -22,7 +22,7 @@
 }
 
 .rich-link-card .rich-link-image-container {
-  height: 100px;
+/*  height: 100px;*/
   width: 35%;
   min-width: 120px;
   overflow: hidden;
@@ -31,7 +31,7 @@
 
 .rich-link-card .rich-link-image {
   background-position: center center;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   padding-bottom: 100px;
   background-color: var(--background-secondary);
