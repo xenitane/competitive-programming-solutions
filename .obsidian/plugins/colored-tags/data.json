@@ -4,7 +4,8 @@
   "palette": 16,
   "seed": 0,
   "knownTags": {
-    "WIP": 1
+    "WIP": 1,
+    "TODO": 2
   },
   "_version": 2
 }

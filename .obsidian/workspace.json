@@ -4,11 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "74f9cf7f5e011f90",
+        "id": "27125d2950193f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "d196928714496430",
+            "id": "b072c131c6b96bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec26572bf130f903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codeforces/1216e.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7134a7436c9edd0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "218284fc28a1cc5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +52,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfa144a7a6982b35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "codeforces/1177ab.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e7ffd665a2aa30a",
@@ -86,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "codeforces/1216e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,24 +190,6 @@
       "html-server:Turn Http Server Off": false
     }
   },
-  "active": "d196928714496430",
-  "lastOpenFiles": [
-    "Index.md",
-    "codeforces/390a.md",
-    "codeforces/399a.md",
-    "codeforces/393a.md",
-    "codeforces/1145a.md",
-    "codeforces/1177ab.md",
-    "codeforces/397a.md",
-    "codeforces/399b.md",
-    "codeforces/977a.md",
-    "codeforces/4a.md",
-    "Untitled.md",
-    "codeforces/codeforces.png",
-    "codeforces.md",
-    "misc/index.md",
-    "misc",
-    "leetoce/1.md",
-    "leetoce"
-  ]
+  "active": "ec26572bf130f903",
+  "lastOpenFiles": []
 }
